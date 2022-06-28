@@ -1,6 +1,8 @@
 libgit2 - the Git linkable library
 ==================================
 
+new string
+
 | Build Status | |
 | ------------ | - |
 | **main** branch CI builds | [![CI Build](https://github.com/libgit2/libgit2/workflows/CI%20Build/badge.svg?event=push)](https://github.com/libgit2/libgit2/actions?query=workflow%3A%22CI+Build%22+event%3Apush) |
